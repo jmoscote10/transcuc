@@ -30,9 +30,9 @@ export const Inicio = () => {
 
         <div className="row g-5">
           <div className="col-md-6">
-            <h2 className="text-body-emphasis">Contacto</h2>
+            <h2 className="text-body-emphasis">Contacto {String.fromCodePoint(0x1F4DE)} {/* 📞 */}</h2>
             <p>
-              Contactenos para mas informacion.
+             Contactenos para mas informacion.
             </p>
             <ul className="list-unstyled ps-0">
               <li>
@@ -79,7 +79,7 @@ export const Inicio = () => {
           </div>
 
           <div className="col-md-6">
-            <h2 className="text-body-emphasis">Soporte</h2>
+            <h2 className="text-body-emphasis">Soporte {String.fromCodePoint(0x1F4AC)} {/* 💬 */}</h2>
             <p>Aqui lo ayudaremos a resolver sus dudas y problemas.</p>
             <ul className="list-unstyled ps-0">
               <li>

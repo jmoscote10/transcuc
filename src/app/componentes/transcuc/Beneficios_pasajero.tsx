@@ -2,7 +2,7 @@ export const Beneficios_pasajero = () => {
     return (
       <>
       <div>
-        <h2>Beneficios para Pasajeros</h2>
+        <h2>{String.fromCodePoint(0x1F697)} {/* 🚗 */} Beneficios para Pasajeros{String.fromCodePoint(0x1F9CD)} {/* 🧍 */}</h2>
         <ul>
             <li>Viajes rápidos y seguros.</li>
             <li>Precios competitivos y transparentes.</li>

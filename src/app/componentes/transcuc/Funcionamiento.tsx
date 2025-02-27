@@ -2,7 +2,7 @@ export const Funcionamiento = ()=>{
     return(
         <>
         <div>
-            <h2>Cómo Funciona</h2>
+            <h2>{String.fromCodePoint(0x1F6E0)} {/* 🛠️ */} Cómo Funciona {String.fromCodePoint(0x2699)} {/* ⚙️ */}</h2>
             <p>Nuestro servicio es sencillo de usar:</p>
             <ol>
                 <li><strong>Regístrate:</strong> Crea una cuenta en nuestra plataforma.</li>
