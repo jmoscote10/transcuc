@@ -45,7 +45,7 @@ export const Cabecera = () => {
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
                 >
-                  Trans Cuc
+                  Beneficios 
                 </a>
                 <ul className="dropdown-menu">
                   <li>
